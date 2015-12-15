@@ -1,0 +1,14 @@
+{
+  "name": "tennis",
+  "version": "1.0.0",
+  "description": "Tennis game app for refactoring with existing tests",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "orxan@rehimli.info",
+  "license": "ISC"
+}
